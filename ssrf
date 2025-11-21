@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta property="og:title" content="test">
+    <meta property="og:image" content="http://127.0.0.1:32335/flag">
+</head>
+<body>
+    SSRF test
+</body>
+</html>
